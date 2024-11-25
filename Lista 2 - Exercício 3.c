@@ -17,7 +17,8 @@ int main(){
     Res = Fibonacci(N);
    
     printf("Termo = %i\n", Res);
-   
+
+    return 0;
 }
 
 //Função responsável por calcular e retornar o elemento n da sequência de Fibonacci.

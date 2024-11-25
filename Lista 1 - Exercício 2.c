@@ -7,7 +7,9 @@ int main()
     //Declaração da variavel responsável por definir o tamanho da matriz.
     int n, i, j;
     
+    printf("Informe o tamanho da matriz: ");
     scanf("%i", &n);
+    printf("\n");
     
     //Definição da matriz quadrada.
     int Mat[n][n];

@@ -20,7 +20,7 @@ int main(){
    
     printf("Média Geral = %.2lf\n", Res);
    
-   
+    return 0;
    
 }
 
